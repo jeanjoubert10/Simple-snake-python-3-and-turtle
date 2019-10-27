@@ -127,7 +127,6 @@ def change_gif():   # Looping through the 2 gifs
         food.s = 'mouse1.gif'
         food.shape(food.s)
 
-counter = 1
 
 while True:
     win.update()
